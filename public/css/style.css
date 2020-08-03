@@ -37,7 +37,8 @@ header a {
 }
 
 .my-image {
-    width: 250px;
+    width: 200px;
+    height: auto;
 }
 
 input {
